@@ -1,0 +1,6 @@
+version: '3'
+services:
+  demo:
+    image: tm44/character-creator
+    ports:
+      - "5000:5000"
